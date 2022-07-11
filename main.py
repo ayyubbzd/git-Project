@@ -3,7 +3,8 @@ print('hello git')
 
 def test():
     x = 29,
-    print(x),
+    y = 54,
+    print(x+y),
 
 
 test()
