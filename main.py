@@ -2,10 +2,10 @@ print('hello git')
 
 
 def test():
-    x = 29,
-    y = 54,
-    z=66,
-    print(x+y),
+    x = 32,
+    z = 54,
+    v = 64,
+    print(x-z+v),
 
 
 test()
